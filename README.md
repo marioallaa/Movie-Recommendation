@@ -3,7 +3,7 @@
 # `Movie recommendation App`
 
 ## Description
-Forge this repository and create a frontend web application in Vue.js, React.js or plaint html that does the following. 
+Fork this repository and create a frontend web application in Vue.js, React.js or plaint html that does the following. 
 
 1. Ask the user for a query.
 2. Search for a movie related to that query.
